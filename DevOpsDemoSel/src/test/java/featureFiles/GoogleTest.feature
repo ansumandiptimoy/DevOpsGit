@@ -9,4 +9,5 @@ Feature: Verify Google Access
   Scenario: Verify Google Access
     Given Open Chrome browser
     And Open Google application
+    When  
    
